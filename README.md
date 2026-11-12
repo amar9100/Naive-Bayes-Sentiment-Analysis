@@ -125,7 +125,7 @@ streamlit run app.py
 
 ## Author
 
-Yuvaraj Naredla
+Police Amarendar Reddy
 
 ## Acknowledgement
 
